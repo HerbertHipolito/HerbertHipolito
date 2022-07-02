@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Herbert Hipólito</h1>
-<h3 align="center">I'm a brazilian developer who is studying to become a data science.</h3>
+<h3 align="center">I'm a Brazilian developer who is studying to become a data scientist.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
