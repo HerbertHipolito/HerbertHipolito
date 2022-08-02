@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herberthipolito&label=Profile%20views&color=0e75b6&style=flat" alt="herberthipolito" /> </p>
 
 - 👯 I’m looking to collaborate on **a data science project that helps people to make intelligent decisions and benefits everyone involved.**
 
